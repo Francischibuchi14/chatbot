@@ -1,0 +1,5 @@
+2025-05-08 16:12:56,824 INFO: Starting production server on port 5000 [in c:\Users\francis\Desktop\chatbit\server\app.py:186]
+2025-05-08 16:13:21,042 INFO: Received message: hey... [in c:\Users\francis\Desktop\chatbit\server\app.py:137]
+2025-05-08 16:13:25,716 INFO: Reply successfully generated from openrouter [in c:\Users\francis\Desktop\chatbit\server\app.py:145]
+2025-05-08 16:15:06,822 INFO: Received message: how are you doing... [in c:\Users\francis\Desktop\chatbit\server\app.py:137]
+2025-05-08 16:15:08,937 INFO: Reply successfully generated from openrouter [in c:\Users\francis\Desktop\chatbit\server\app.py:145]
